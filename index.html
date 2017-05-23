@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title> Restaurants near Walmart</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="js/libs/jquery/jquery.js" type="text/javascript"></script>
+        <script src="js/Locations.js" type="text/javascript"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD9kSmGUilCCasTdMCL5yNv86cllSHptcM"></script>
+        <link href="css/Styling.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <!--Start of body-->
+    <body>
+<!--        Clicking button displays the nearest walmart stores-->
+        <div>
+           <h1> <input type ="button" name="start" value="Click to Search Restaurants Near Walmart" class = "Search_User"/></h1>
+        </div>
+
+        <!--Displays nearest walmart stores-->
+        <div class ="Storename">
+            
+            <div class = 'walmartDet'>
+     
+            </div>
+        </div>
+        
+        <!--Displays nearest restaurants-->
+        <div class="RestoName">
+            <div class = 'restoDict'>
+                
+            </div>
+        </div>
+        
+        <!--Displays directions from the restaurant to the user's current position-->
+        <div id="map" class='Maps'>
+           
+        </div>
+
+    </body>
+    <!--End of body-->
+</html>

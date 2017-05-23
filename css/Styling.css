@@ -1,0 +1,117 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 26, 2017, 1:06:15 PM
+    Author     : Nish
+*/
+
+
+.InputDiv{
+    width: 50%;
+    height: 50px;
+    margin-top: 20px;
+    margin-right: 100px;
+    float: left;
+}
+.ZipD{
+    margin-right: 10px;
+    text-align: center; 
+    width: 100px;
+}
+.Maps {
+        height: 300px;
+        width: 700px;
+        margin-top: 120px;
+        padding: 0;
+        margin-left: auto;
+        margin-right: auto;
+}
+.Search_User{
+    
+    height:70px; 
+    width: 400px; 
+    margin: -20px -50px; 
+    position:relative;
+    background-color: #f4511e;
+    top:50%; 
+    display: inline-block;
+    color: #333;
+    font-size: 50px;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Storename {
+    margin-top: 90px;
+    
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+.walmartDet a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.RestoName {
+    margin-top: 140px;
+    
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+.restoDict a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+/*.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content walmartDet {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content walmartDet:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}*/
+
